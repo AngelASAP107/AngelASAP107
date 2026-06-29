@@ -2,9 +2,7 @@
 
 Tecnólogo en Sistemas de Información (Universidad del Valle, 2025) · Estudiante de Ingeniería de Sistemas (USC Cali) · Basado en Yumbo, Colombia.
 
-Trabajo en la Alcaldía de Yumbo desarrollando herramientas internas: formularios web con lógica condicional para captura de más de 2,000 registros, bases de datos MySQL con stored procedures, automatización con macros VBA, y dashboards en Looker Studio. También desarrollé de forma independiente FeriaApp, un marketplace móvil para comercio ganadero con React Native, Supabase Realtime y PostgreSQL con RLS.
-
-Estoy construyendo un portafolio orientado a datos e IA — análisis exploratorio, ETL, modelos predictivos y visualización — con el objetivo de conseguir un rol junior como analista de datos o data scientist.
+Desarrollo aplicaciones web y móviles con experiencia en bases de datos relacionales, automatización de datos y diseño de sistemas. Actualmente construyendo un portafolio orientado a datos e IA con el objetivo de conseguir un rol junior como analista de datos o data scientist.
 
 ---
 
@@ -27,14 +25,6 @@ Looker Studio · Google Sheets · Google Apps Script · GCP
 
 **Herramientas**
 Git · GitHub · Figma · Jira · Adobe Photoshop · Adobe Illustrator
-
----
-
-## Qué estoy haciendo ahora
-
-- Construyendo proyectos de portafolio en análisis de datos con Python (pandas, scikit-learn, plotly)
-- Profundizando en SQL avanzado y modelado de datos
-- Explorando FastAPI para servicios de datos e IA
 
 ---
 
