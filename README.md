@@ -30,9 +30,15 @@ Git · GitHub · Figma · Jira · Adobe Photoshop · Adobe Illustrator
 
 ## Proyectos
 
+### 🔍 Proyecto destacado
+
+**[International Football Analytics](https://github.com/AngelASAP107/football-analytics)** — Análisis y predicción de resultados sobre 153 años de fútbol internacional. Flujo completo: limpieza de datos, feature engineering con rolling windows, modelo Random Forest evaluado cronológicamente. [Ver repositorio →](https://github.com/AngelASAP107/football-analytics)
+
+---
+
 | Repo | Descripción | Tech |
 |------|-------------|------|
-| *(próximamente)* | Análisis exploratorio y modelo predictivo | Python · pandas · scikit-learn |
+| [football-analytics](https://github.com/AngelASAP107/football-analytics) | EDA + modelo predictivo sobre 49 000+ partidos internacionales (1872–2026). Random Forest con evaluación cronológica y feature engineering sin data leakage. | Python · pandas · scikit-learn · matplotlib |
 
 ---
 
