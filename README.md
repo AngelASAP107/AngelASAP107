@@ -2,7 +2,7 @@
 
 Tecnólogo en Sistemas de Información (Universidad del Valle, 2025) · Estudiante de Ingeniería de Sistemas (USC Cali) · Basado en Yumbo, Colombia.
 
-Desarrollo proyectos de datos end-to-end: desde limpieza y exploración hasta modelado predictivo y despliegue en producción. Con base en desarrollo web/móvil y dos proyectos de portafolio en ML, busco un rol junior como analista de datos o data scientist.
+Desarrollo proyectos de datos end-to-end: desde limpieza y exploración hasta modelado predictivo y despliegue en producción. Con base en desarrollo web/móvil y orientado hacia datos e IA aplicada.
 
 ---
 
